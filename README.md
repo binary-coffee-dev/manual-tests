@@ -9,7 +9,7 @@ TBD
 
 ## Test areas
 
-- Article
+- [Article](./article.md)
 - User
 - Comment
 - Legal
