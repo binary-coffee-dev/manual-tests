@@ -10,7 +10,7 @@ TBD
 ## Test areas
 
 - [Article](./article.md)
-- User
+- [User](./user.md)
 - Comment
 - Legal
 - Images
