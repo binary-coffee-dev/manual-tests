@@ -12,5 +12,5 @@ TBD
 - [Article](./article.md)
 - [User](./user.md)
 - Comment
-- Legal
+- [Legal](./legal.md)
 - Images
