@@ -18,3 +18,8 @@
   - Edit the options:
     - web page
   - Refresh the page and check that the information was saved correctly
+
+## Popular/MostActive users
+
+- Open the link: https://dev.binary-coffee.dev/
+- Check that the popular and most active users list are correctly desplayed
