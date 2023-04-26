@@ -11,6 +11,6 @@ TBD
 
 - [Article](./article.md)
 - [User](./user.md)
-- Comment
+- [Comment](./comment.md)
 - [Legal](./legal.md)
 - [Images](./images.md)
