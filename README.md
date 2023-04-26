@@ -13,4 +13,4 @@ TBD
 - [User](./user.md)
 - Comment
 - [Legal](./legal.md)
-- Images
+- [Images](./images.md)
