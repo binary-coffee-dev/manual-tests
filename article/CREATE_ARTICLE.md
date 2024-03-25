@@ -12,7 +12,6 @@
 	- Enable the article
 	- Set a published_date for the article
 4. Click on the "Guardar" button
-
 ## Create article and publish article (as authenticated user)
 
 1. Open the link: [https://dev.binary-coffee.dev/dashboard/articles/create](https://dev.binary-coffee.dev/dashboard/articles/create)
