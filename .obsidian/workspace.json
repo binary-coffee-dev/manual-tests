@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "user/README.md",
+                "file": "article/CREATE_ARTICLE.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "user/README.md",
+                "file": "article/CREATE_ARTICLE.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "user/README.md",
+                "file": "article/CREATE_ARTICLE.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "user/README.md"
+                "file": "article/CREATE_ARTICLE.md"
               }
             }
           }
@@ -161,11 +161,11 @@
   },
   "active": "be6bfd10b6cbd659",
   "lastOpenFiles": [
-    "user/AUTH.md",
-    "user/README.md",
-    "README.md",
-    "user/USER_PROFILE.md",
     "article/README.md",
+    "README.md",
+    "user/README.md",
+    "user/AUTH.md",
+    "user/USER_PROFILE.md",
     "article/CREATE_ARTICLE.md",
     "article/LIST_OF_ARTICLES.md",
     "article/ARTICLE_VIEW.md",
