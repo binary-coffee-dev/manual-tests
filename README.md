@@ -1,6 +1,10 @@
 # Manual Tests
 
-This repository is meant to setting up a list of steps to test the main functionalities on BinaryCoffee site.
-Is divided in areas base on each modules used inteh application.
+This repository is meant to setting up a list of steps to test the main functionalities on [binarycoffee.dev](https://binarycoffee.dev) site.
+## Test areas
 
-[wiki](https://github.com/binary-coffee-dev/manual-tests/wiki)
+- [Article](./ARTICLE.md)
+- [User](USER.md)
+- [Comment](COMMENT.md)
+- [Legal](LEGAL.md)
+- [Image](IMAGE.md)

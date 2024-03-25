@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "107981abbf614d23",
+        "id": "5c3bb65f94e2fe1b",
         "type": "tabs",
         "children": [
           {
-            "id": "f5b3810f5eff752d",
+            "id": "a0a0de959ce4acce",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -146,6 +146,23 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "f5b3810f5eff752d",
-  "lastOpenFiles": []
+  "active": "a0a0de959ce4acce",
+  "lastOpenFiles": [
+    "USER.md",
+    "README.md",
+    "LEGAL.md",
+    "IMAGE.md",
+    "COMMENT.md",
+    "ARTICLE.md",
+    "article/README.md",
+    "image/README.md",
+    "image",
+    "legal/README.md",
+    "legal",
+    "comment/README.md",
+    "comment",
+    "user/README.md",
+    "user",
+    "article"
+  ]
 }
