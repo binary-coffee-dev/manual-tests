@@ -1,36 +1,9 @@
-## List of articles (blog)
+## Test areas
 
-- Open this link: [https://dev.binary-coffee.dev/](https://dev.binary-coffee.dev/)
+- [List of articles (blog)](LIST_OF_ARTICLES.md)
+- [Article view (blog)](./ARTICLE_VIEW.md)
 
-### Open List of articles
 
-  - Check that you can see the list of articles.
-
-### Validate articles pagination
-
-  - Click on the button to go to the next page.
-  - Check that the next page is correct and that you can navigate back and forward.
-
-### Filter articles
-
-  - Write a text on the search dialog and press enter (or wait for a couple of seconds).
-  - The list of articles should be filtered base on the search text.
-  - Try a couple of time with different search text to validate that is correctly working the filtering functionality
-
-## Article view (blog)
-
-- Open the link: [https://dev.binary-coffee.dev/post/video-examplednttl](https://dev.binary-coffee.dev/post/video-examplednttl)
-- Validate that the information in the articles is correct
-  - Text
-  - Banner
-  - Author
-  - Tags
-  - published date
-  - Number of comments
-  - Number of likes
-  - Title
-  - List of comments
-  - Similar posts
 
 ## User list of articles (blog)
 

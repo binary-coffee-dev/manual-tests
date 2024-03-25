@@ -3,7 +3,9 @@
 This repository is meant to setting up a list of steps to test the main functionalities on [binarycoffee.dev](https://binarycoffee.dev) site.
 ## Test areas
 
-- [Article](./ARTICLE.md)
+- [Article](ARTICLE.md)
+	- [[LIST_OF_ARTICLES]]
+	- [[ARTICLE_VIEW]]
 - [User](USER.md)
 - [Comment](COMMENT.md)
 - [Legal](LEGAL.md)
