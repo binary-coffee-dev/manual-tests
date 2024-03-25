@@ -13,6 +13,6 @@
 
 ### Filter articles
 
-  - Write a text on the search dialog and press enter (or wait for a couple of seconds).
-  - The list of articles should be filtered base on the search text.
-  - Try a couple of time with different search text to validate that is correctly working the filtering functionality
+1. Write a text on the search dialog and press enter (or wait for a couple of seconds).
+2. The list of articles should be filtered base on the search text.
+3. Try a couple of time with different search text to validate that is correctly working the filtering functionality
