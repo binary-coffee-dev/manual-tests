@@ -6,5 +6,5 @@ This repository is meant to setting up a list of steps to test the main function
 - [Article](article/README.md)
 - [User](user/README.md)
 - [Comment](comment/README.md)
-- [Legal](legal/LEGAL.md)
-- [Image](image/IMAGE.md)
+- [Legal](legal/README.md)
+- [Image](image/README.md)
